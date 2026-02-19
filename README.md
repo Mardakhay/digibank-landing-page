@@ -5,7 +5,7 @@ Built with semantic HTML and modern CSS techniques (Flexbox & Grid) for clean la
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML5 (semantic markup)
 - CSS3 (Flexbox & Grid)
 - Fully responsive design
@@ -13,7 +13,7 @@ Built with semantic HTML and modern CSS techniques (Flexbox & Grid) for clean la
 
 ---
 
-## ✨ Features
+## Features
 - Sticky navigation header with smooth scrolling
 - Hero section with call-to-action buttons
 - Features overview section
@@ -24,7 +24,7 @@ Built with semantic HTML and modern CSS techniques (Flexbox & Grid) for clean la
 
 ---
 
-## 🎯 Purpose
+## Purpose
 This project was created for learning and portfolio purposes:
 - Practicing semantic HTML
 - Modern CSS layout (Flexbox & Grid)
